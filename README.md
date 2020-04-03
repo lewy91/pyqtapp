@@ -1,2 +1,2 @@
-# pyqtapp
-Aplikacja z formularzem logowania
+# Aplikacja z formularzem logowania
+
